@@ -1,3 +1,3 @@
 # IPL Data Processing
 This is my first repository on GitHub. It contains the notebook I created as part of my CSE-446 Machine Learning (Sessional) homework.
-IPL-Data-Processing-using-Pandas-Numpy-Matplotlib-for-Machine-Learning-Lab
+It was formerly named as -> IPL-Data-Processing-using-Pandas-Numpy-Matplotlib-for-Machine-Learning-Lab.
